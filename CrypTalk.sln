@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptalk", "CrypTalk\Cryptalk.csproj", "{09D99206-7B5C-4A6C-BE54-528C0A22EA20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp", "ChatApp\ChatApp.csproj", "{232BE492-2F23-43F9-9DDA-70A8284A355A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioCallingApp", "Audio & Video Calling app\AudioCallingApp.csproj", "{6835BC7D-D7CB-410C-B361-4446C093499F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingTool", "PingTool\PingTool.csproj", "{151C40A8-CC13-412A-8ED8-4F73149AB96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D99206-7B5C-4A6C-BE54-528C0A22EA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D99206-7B5C-4A6C-BE54-528C0A22EA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D99206-7B5C-4A6C-BE54-528C0A22EA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D99206-7B5C-4A6C-BE54-528C0A22EA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232BE492-2F23-43F9-9DDA-70A8284A355A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232BE492-2F23-43F9-9DDA-70A8284A355A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232BE492-2F23-43F9-9DDA-70A8284A355A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232BE492-2F23-43F9-9DDA-70A8284A355A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6835BC7D-D7CB-410C-B361-4446C093499F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6835BC7D-D7CB-410C-B361-4446C093499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6835BC7D-D7CB-410C-B361-4446C093499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6835BC7D-D7CB-410C-B361-4446C093499F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151C40A8-CC13-412A-8ED8-4F73149AB96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151C40A8-CC13-412A-8ED8-4F73149AB96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151C40A8-CC13-412A-8ED8-4F73149AB96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151C40A8-CC13-412A-8ED8-4F73149AB96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D69342-76E1-454B-A069-C99150019FE5}
+	EndGlobalSection
+EndGlobal
