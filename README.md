@@ -49,7 +49,7 @@ Phương pháp này đơn giản nhất, không cần cài đặt phức tạp.
 #### Cách 2: Dành cho người muốn hiểu tường tận kiến trúc hệ thống của ứng dụng này (Chạy từ Source Code)
 1.  Clone dự án về máy:
     ```bash
-    git clone [https://github.com/USERNAME/Cryptalk_NT106.git](https://github.com/USERNAME/Cryptalk_NT106.git)
+    git clone (https://github.com/USERNAME/Cryptalk_NT106.git)
     ```
 2.  Mở Solution bằng **Visual Studio 2022**.
 3.  Nhấn `F5` để Build và Run project.
@@ -69,7 +69,7 @@ The easiest way to run CrypTalk without complex setup.
 #### Option 2: For Dev or Reverse Engineer enjoyer (Run from Source)
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/USERNAME/Cryptalk_NT106.git](https://github.com/USERNAME/Cryptalk_NT106.git)
+    git clone (https://github.com/USERNAME/Cryptalk_NT106.git)
     ```
 2.  Open the Solution file in **Visual Studio 2022**.
 3.  Press `F5` to Build and Run.
